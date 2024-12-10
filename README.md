@@ -6,7 +6,7 @@ VORZE機器をBLEで制御する
 
 ## ツールのライセンスや再利用について
 
-[こちらをお読み頂けると幸いです](https://vulpine-vixen.github.io/vulpine-vixen/)
+[GitHub上で公開しているツール作品について](https://vulpine-vixen.github.io/vulpine-vixen/)
 
 ## リンク
 
