@@ -4,6 +4,10 @@ VORZE機器をBLEで制御する
 **Webツール** を
 作っていきます。
 
+## ツールのライセンスや再利用について
+
+[こちらをお読み頂けると幸いです](https://vulpine-vixen.github.io/vulpine-vixen/)
+
 ## リンク
 
 メッセージや支援 : [Patreon](https://www.patreon.com/c/vulpine_vixen)
