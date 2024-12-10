@@ -19,11 +19,25 @@ img
     image-rendering: pixelated;
 }
 
-/* 大きなブロック */
-header, main
+/* 各ブロック */
+header
+{
+    margin: 1em auto 0.25em auto;
+}
+main
+{
+    margin: 0.25em auto;
+}
+footer
+{
+    margin: 0.25em auto 1em auto;
+    text-align: center;
+}
+header,
+main,
+footer
 {
     width: calc(100svmin - 2em);
-    margin: 0.25em auto;
 }
 
 /* 警告 */
