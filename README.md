@@ -6,7 +6,7 @@
 
 ## プログラムの再利用などについて
 
-[GitHub上で公開しているツールについて](https://vulpine-vixen.github.io/vulpine-vixen/)
+[ツールのプログラムについて](https://vulpine-vixen.github.io/vulpine-vixen/)
 
 ## リンク
 
